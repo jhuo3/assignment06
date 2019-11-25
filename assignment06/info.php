@@ -6,9 +6,7 @@ include "inc/html-top.inc";
 
 <body class="f-pattern">
 
-<header>
-	<a href="index.php" class="go-home">Home</a>
-</header>
+<?php include "inc/nav.inc"; ?>
 	
 <article class="container">
 	
