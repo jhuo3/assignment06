@@ -3,22 +3,18 @@ $currentPage = "Assignment06 | Team-Seattle";
 include "inc/html-top.inc";
 ?>
 
-<body>
-	<section class="z-pattern">
+<body class="z-pattern">
 <header class="persistent">
-
 
 <div class="banner">
 	<section class="bannerHead">
 		<!-- Primary Optical Area -->
             <h1>URCSSA</h1>
-			<img class="bannerImg" src="images/banner.png" alt="banner">
-
     </section>
-        <!-- Strong Follow Area -->	
-            <div class="slogan">
-            	<?php include "inc/nav.php"; ?>
-            </div>
+    <section>
+        <!-- Strong Follow Area -->
+        <?php include "inc/nav.inc"; ?>
+    </section>        
 </div>
 </header>
 
