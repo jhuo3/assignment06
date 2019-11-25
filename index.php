@@ -27,6 +27,20 @@ include "inc/html-top.inc";
 	</section>
 </div>
 
+<section class="newsletterhome">
+	<div id="newsletter">
+		<h2>Subscribe to our Newsletter</h2>
+		<p>Sign up for more SmartPhone news.</p>
+		 
+		 <form action="#" method="post" id="signup">
+		    <input type="text" placeholder="Email address" name="email" required>
+		    <label>
+		      <input type="checkbox" checked="checked" name="subscribe"> 
+		    </label>
+		    <input type="submit" value="Subscribe">
+		 </form>
+	</div>
+</section>
 
 
 <footer class="persistent">
