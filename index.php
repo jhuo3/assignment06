@@ -28,6 +28,7 @@ include "inc/html-top.inc";
 </div>
 
 <section class="newsletterhome">
+
 	<div id="newsletter">
 		<h2>Subscribe to our Newsletter</h2>
 		<p>Sign up for more SmartPhone news.</p>
