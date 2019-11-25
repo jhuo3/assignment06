@@ -17,7 +17,7 @@ include "inc/html-top.inc";
     </section>
         <!-- Strong Follow Area -->	
             <div class="slogan">
-            	<a href="info.php">U of R Chinese Students and Scholars Association</a>
+            	<?php include "inc/nav.php"; ?>
             </div>
 </div>
 </header>
