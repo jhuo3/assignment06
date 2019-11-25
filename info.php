@@ -15,23 +15,19 @@ include "inc/html-top.inc";
 	<div class="main">
 	
 	<section>
-		
 		<h3>About URCSSA</h3>
 		<p>The <strong class="contrast">URCSSA</strong> is The University of Rochester Chinese Students and Scholars Association - URCSSA is the only official Chinese student organization covering undergraduate, postgraduate, doctoral and visiting scholars at the University of Rochester. It is also the bridge and link between the Chinese Consulate General in New York and Chinese students. We are committed to serving all Luo Da Chinese students and organizing various activities in life and academics.</p>
 	</section>
 
 	<section>
-		
 		<h3>Departments</h3>
 		<p>There are several <strong class="contrast">departments</strong> in URCSSA, such as activities planning department, career&development department, designing departmnet, communication department, and culture&sports... Members work in each department based on their preference. URCSSA welcomed the new members of 2019-2020. After a series of interviews and interviews, our family now has 67 members, including 53 undergraduates, 12 graduate students, and 2 doctoral students.</p>
 	</section>	
 
 
 	<section>	
-		
 		<h3>Activities</h3>
-		<p><strong class="contrast">Looking back on the past year,</strong> we organized and organized a series of exciting activities, such as "UR Basketball Game", "UR 72 Hours Couple", and "UR Masked Singer". In addition, the “Mid-Autumn Lake Ontario Party”, the “New Year Lantern Festival”, and the “New Year's Kitchen King Competition” allow Chinese students to spend the holidays in a foreign country. URCSSA established exchanges and cooperation with 25 companies and companies outside the school. In addition to planning offline activities full of creativity and innovation, CSSA will launch more service activities like “New Life Pickup”, “Final Week Warmth”, and “New Life Beijing Meetup” to bring Chinese students to UR. At the same time, we will expand cooperation and exchanges with the outside world, and provide careers for more students by holding job-seeking activities such as “URCSSA Alumni Summit”, “China Career Expo”, “New York Consulate Meet”, and “Huawei Campus Line”. Develop resources and create opportunities.
-</p>
+		<p><strong class="contrast">Looking back on the past year,</strong> we organized and organized a series of exciting activities, such as "UR Basketball Game", "UR 72 Hours Couple", and "UR Masked Singer". In addition, the “Mid-Autumn Lake Ontario Party”, the “New Year Lantern Festival”, and the “New Year's Kitchen King Competition” allow Chinese students to spend the holidays in a foreign country. URCSSA established exchanges and cooperation with 25 companies and companies outside the school. In addition to planning offline activities full of creativity and innovation, CSSA will launch more service activities like “New Life Pickup”, “Final Week Warmth”, and “New Life Beijing Meetup” to bring Chinese students to UR. At the same time, we will expand cooperation and exchanges with the outside world, and provide careers for more students by holding job-seeking activities such as “URCSSA Alumni Summit”, “China Career Expo”, “New York Consulate Meet”, and “Huawei Campus Line”. Develop resources and create opportunities.</p>
 	</section>
 	</div>
 
