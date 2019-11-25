@@ -30,28 +30,11 @@ include "inc/html-top.inc";
 
 
 <footer class="persistent">
-
    <p>CSC 174: Advanced Front-end Web Design and Development</p>
-
-		<section class="newsletterhome">
-
-			<div id="newsletter">
-		    <h2>Subscribe to our Newsletter</h2>
-		    <p>Sign up for more SmartPhone news.</p>
-		 
-		 <form action="#" method="post" id="signup">
-		    <input type="text" placeholder="Email address" name="email" required>
-		    <label>
-		      <input type="checkbox" checked="checked" name="subscribe"> 
-		    </label>
-		    <input type="submit" value="Subscribe">
-		 </form>
-		</div>
-		</section>
-
 </footer>
- 
- </section>
+
+<script src="http://code.jquery.com/jquery.js"></script>
+<script src="js/menu-highlighter.js"></script>
 
 <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
 <script>
@@ -68,7 +51,6 @@ $("#signup").submit(function(e) {
 	e.preventDefault();
 });
 </script>
-
 
 </body>
 </html>
