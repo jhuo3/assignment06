@@ -6,6 +6,10 @@ include "inc/html-top.inc";
 
 <body>
 
+<figure>
+	<img src="images/pic2.JPG" alt="URCSSA pic">
+</figure>
+
 <h1>E-board members</h1>
 
 <section>

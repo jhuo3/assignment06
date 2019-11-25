@@ -18,6 +18,10 @@ include "inc/html-top.inc";
 </div>
 </header>
 
+<figure>
+	<img src="images/pic1.JPG" alt="URCSSA pic">
+</figure>
+
 <div class="center">
 
 	<section class="intro">

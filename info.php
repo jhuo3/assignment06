@@ -3,8 +3,8 @@ $currentPage = "Learn More | Assignment06 | Team-Seattle";
 include "inc/html-top.inc";
 ?>
 
-<body class="f-pattern">
 
+<body class="f-pattern">
 
 <header>
 	<a href="index.php" class="go-home">Home</a>
@@ -13,6 +13,10 @@ include "inc/html-top.inc";
 <article class="container">
 	
 	<div class="main">
+
+<figure>
+	<img src="images/logo.JPG" alt="URCSSA logo">
+</figure>
 	
 	<section>
 		<h3>About URCSSA</h3>
