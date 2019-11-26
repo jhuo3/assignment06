@@ -22,5 +22,21 @@ include "inc/html-top.inc";
 <script src="http://code.jquery.com/jquery.js"></script>
 <script src="js/menu-highlighter.js"></script>
 
+
+<script>
+$("#signup").submit(function(e) {
+	var formData = $("#signup").serialize();
+	$.ajax({
+		type: 'POST',
+		url: "new.php",
+		data: formData,
+		success: function(data){
+			$("#newsletter").html("Thank you for subscribing!");
+		}
+	});
+	e.preventDefault();
+});
+</script>
+
 </body>
 </html>
